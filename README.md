@@ -2,7 +2,7 @@
 Play 1 JPA Model for Play 2 
 
 Jave developer who familiar with JPA Model (Play 1) will like PlayJPA very much.
-Please refer [Play!](https://www.playframework.com/documentation/1.3.x/jpa#anamefindingFindingobjectsa) for more detail about the Model. Unfortunely [Explicit Save](https://www.playframework.com/documentation/1.3.x/jpa#anamesaveExplicitsavea) is not implemeted as i am still thinking is it a good practice of hacking the normal JPA behaviour.
+Please refer [Play!](https://www.playframework.com/documentation/1.3.x/jpa#anamefindingFindingobjectsa) for more detail about the Model. Unfortunely [Explicit Save](https://www.playframework.com/documentation/1.3.x/jpa#anamesaveExplicitsavea) is not implemented as i am still thinking is it a good practice of hacking the normal JPA behaviour.
 
 ## Installation
 Add dependency declarations into your build.sbt file:
