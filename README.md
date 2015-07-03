@@ -7,11 +7,11 @@ Please refer [Play!](https://www.playframework.com/documentation/1.3.x/jpa#aname
 ## Installation
 Add dependency declarations into your build.sbt file:
 ```
-"com.sbs" %% "playjpa" % "1.0-SNAPSHOT"
+"com.fliptoo" %% "playjpa" % "1.0-SNAPSHOT"
 ```
 Enable PlayJPA in application.conf
 ```
-play.modules.enabled += "com.sbs.play.jpa.Module"
+play.modules.enabled += "com.fliptoo.play.jpa.Module"
 ```
 ## Quick Start
 
