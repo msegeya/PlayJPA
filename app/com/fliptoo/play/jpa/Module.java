@@ -1,4 +1,4 @@
-package com.sbs.play.jpa;
+package com.fliptoo.play.jpa;
 
 import play.api.Configuration;
 import play.api.Environment;

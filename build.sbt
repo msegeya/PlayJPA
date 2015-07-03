@@ -1,6 +1,6 @@
 name := "PlayJPA"
 
-organization := "com.sbs"
+organization := "com.fliptoo"
 
 version := "1.0-SNAPSHOT"
 

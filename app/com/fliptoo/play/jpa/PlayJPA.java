@@ -1,8 +1,7 @@
-package com.sbs.play.jpa;
+package com.fliptoo.play.jpa;
 
 import javassist.*;
 import javassist.bytecode.DuplicateMemberException;
-import play.Logger;
 
 import javax.inject.Singleton;
 import java.io.File;
